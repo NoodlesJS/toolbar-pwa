@@ -65,6 +65,10 @@
   cursor: pointer;
 }
 
-.page-container {
-  
+.dog-preview {
+  text-align: center;
+}
+.dog-preview img {
+  width: 300px;
+  margin: 20px 0;
 }

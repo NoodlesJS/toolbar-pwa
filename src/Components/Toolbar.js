@@ -1,10 +1,7 @@
 import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom';
 
-import IconHome from './assets/home.svg';
-import IconSmile from './assets/smile.svg';
-import IconBookmark from './assets/bookmark.svg';
-import IconSettings from './assets/settings.svg';
+
 
 export default function Toolbar() {
     return (
